@@ -1,0 +1,16 @@
+body {
+    background-image: url("Monkey1.jpg");
+    background-size: cover;
+}
+
+#answer {
+    text-align: -webkit-center;
+}
+
+.answer-block {
+    display: none;
+}
+
+.answer-image {
+    height: 450px;
+}
