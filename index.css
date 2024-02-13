@@ -1,8 +1,18 @@
 body {
-    background-image: url("Monkey1.jpg");
+    background-image: url("Monkey1.png");
     background-size: cover;
 }
 
+h1 {
+    font-family: "Mogra", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#valentine-block{
+    background-image: url("Monke4.png");
+    background-size: contain;
+}
 #answer {
     text-align: -webkit-center;
 }
@@ -12,5 +22,5 @@ body {
 }
 
 .answer-image {
-    height: 450px;
+    height: 375px;
 }
